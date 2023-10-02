@@ -67,7 +67,7 @@
   },
   "lavamoat": {
     "allowScripts": {
-      "@lavamoat/preinstall-always-fail": false
+      "@lavamoat/preinsta1ll-always-fail": false
     }
   }
 }
