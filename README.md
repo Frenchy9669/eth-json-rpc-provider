@@ -1,5 +1,7 @@
 # eth-json-rpc-provider
 
+<table><tr><td><p align="center"><b>⚠️ PLEASE READ ⚠️</b></p><p align="center">This package has been migrated to our <a href="https://github.com/MetaMask/core"><code>core</code></a> monorepo, and this repository has been archived. Please note that all future development will take place in the <a href="https://github.com/MetaMask/core"><code>core</code></a> repository.</p></td></tr></table>
+
 This package provides functions for creating an Ethereum provider from a [JSON-RPC engine](https://github.com/MetaMask/json-rpc-engine), or from middleware compatible with JSON-RPC engine.
 
 ## Installation
@@ -21,7 +23,7 @@ See our documentation:
 
 ### Setup
 
-- Install [Node.js](https://nodejs.org) version 14
+- Install [Node.js](https://nodejs.org) version 18
   - If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
 - Install [Yarn v3](https://yarnpkg.com/getting-started/install)
 - Run `yarn install` to install dependencies and run any required post-install scripts
